@@ -4,9 +4,25 @@
 
 * Wahlfächer
 
+*** CAAD Practice: City of Indexes
+
+    L. Hovestadt
+
+    Montag 15:00 - 19:00
+
+    HIB E 15
+
+*** Das sprechende Detail
+
+    M. Rinke
+
+    Montag 17:00 - 19:00
+
+    HIL E 7
+
 ** Wahlfacharbeiten (18 KP)
 
-   <++>
+
 
 * Vertiefungsfächer (2 KP)
 
@@ -29,5 +45,3 @@
    HIL E 9
 
 * GESS (3 KP)
-
-  <++>
