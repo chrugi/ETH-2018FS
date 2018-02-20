@@ -1,0 +1,16 @@
+#+TITLE: City of Indexes
+#+SUBTITLE: Notes
+#+AUTHOR: Christian Sangvik
+#+EMAIL: christian.sangvik@gmx.ch
+#+DATE: <2018-02-19 Mon>
+
+* Introduction
+
+** What is information?
+
+   Information is an unit of quantity. In the digital excurse we have only two
+   states, 0 and 1. But with the right combination and interpretation we can
+   articulate everything. The question arises: In a world, where all the
+   information is out there, what to ask?
+
+** What are cities actually about?
