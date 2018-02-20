@@ -38,7 +38,7 @@
 
 ** Immobilien Oekonomie App
 
-   [[ioe-app.ethz.ch]] mit ETH Login verfügbar.
+   [[https://ioe-app.ethz.ch][IOE App]] mit ETH Login verfügbar.
 
 * Vorlesungen
 
