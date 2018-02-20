@@ -1,0 +1,61 @@
+#+TITLE: Einführung in die Wissenschaftsphilosophie
+#+SUBTITLE: Mitschriften und Notizen
+#+AUTHOR: Christian Sangvik
+#+EMAIL: christian.sangvik@gmx.ch
+#+DATE: <2018-02-20 Die>
+
+* Administratives
+
+** Dozenten
+
+   - [[mailto:christoph.baumberger@usys.ethz.ch][Christoph Baumberger]]
+   - [[mailto:georg.brun@usys.ethz.ch][Georg Brun]]
+
+** Tutoren
+
+   - [[mailto:benedikt.knueses@usys.ethz.ch][Benedikt Knüsel]]
+   - [[mailto:heerss@student.ethz.ch][Selim Heers]]
+   - [[mailto:martin.ostermeier@usys.ethz.ch][Martin Ostermeier]]
+
+** Webseite
+
+** Literatur
+
+** Prüfung
+
+* Einleitung
+
+* Vorlesungen
+
+** 01 | Vorlesung vom 20. Feb. 2018
+
+*** Was unterscheidet sie von nichtwissenschaftlichen Unternehmungen?
+
+    Wissenschaft ist
+
+    - Empirisch überprüfbare Hypothese
+    - möglichst objektiv
+    - nicht dogmatisch
+    - reproduzierbare Ergebnisse
+    - Falsifizierbarkeit
+    - Pluralität von Modellen
+    - Idealisierungen
+    - Prognosen
+    - Quantitative Methoden
+    - eindeutige Resultate
+    - prinzipiell von jedem erlernbar
+    - Unsicherheit
+
+*** Aristotelischer Begriff der Wissenschaft
+
+    Aristoteles ist der wichtigste Wissenschaftsphilosoph der Antike. Er hat an
+    einer Grosszahl von Dingen gearbeitet. Von Logik, über Ethik bis hin zur
+    Naturwissenschaft sehr ausführlich betrachtet.
+
+    Wissenschaftlich in allen Richtungen aktiv.
+
+**** Was bedeutet es, etwas zu lernen?
+
+     Lernen beruht auf Beobachtung. Nicht alle lernen auf die gleiche Weise.
+
+*** Bacon
