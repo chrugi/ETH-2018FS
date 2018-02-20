@@ -6,27 +6,34 @@
 
 * Administratives
 
-  | 19. Feb | 01 | Editorial              |
-  | 26. Feb | 02 | Die Ökonomie der Stadt |
-  | 05. Mär | 03 | Renditen               |
-  | 12. Mär | 04 | Chancen und Risiken    |
-  | 19. Mär |  - | Seminarwoche           |
-  | 26. Mär | 05 | benotete Übung         |
-  | 02. Apr | 06 | Kosten                 |
-  | 09. Apr |  - | Sechseläuten           |
-  | 16. Apr | 07 | Projektentwicklung     |
-  | 23. Apr | 08 | Die Genossenschaft     |
-  | 30. Apr | 09 | benotete Übung II      |
-  | 07. Mai | 10 | Wrap-Up                |
+** Semesterplanung
 
-  - zwei benotete schriftliche Übungen, während des Semesters.
-  - Anwesenheitspflicht. Wird kontrolliert.
-  - Grundvoraussetzung für Wahlfacharbeit
-  - [[http://www.bauprozess.arch.ethz.ch/education/MSc/BauprozessOekonomie.html][Vorlesungsfolien online]]. Werden jeden Montag augeschalten.
+   | 19. Feb   | 01 | Editorial              |
+   | 26. Feb   | 02 | Die Ökonomie der Stadt |
+   | 05. Mär   | 03 | Renditen               |
+   | 12. Mär   | 04 | Chancen und Risiken    |
+   | 19. Mär   |  - | Seminarwoche           |
+   | *26. Mär* | 05 | *benotete Übung I*     |
+   | 02. Apr   | 06 | Kosten                 |
+   | 09. Apr   |  - | Sechseläuten           |
+   | 16. Apr   | 07 | Projektentwicklung     |
+   | 23. Apr   | 08 | Die Genossenschaft     |
+   | *30. Apr* | 09 | *benotete Übung II*    |
+   | 07. Mai   | 10 | Wrap-Up                |
+
+   - zwei benotete schriftliche Übungen während des Semesters
+   - Vorlesung ist Grundvoraussetzung für Wahlfacharbeit
+   - Kontrollierte Anwesenheitspflicht
+   - [[http://www.bauprozess.arch.ethz.ch/education/MSc/BauprozessOekonomie.html][Vorlesungsfolien online verfügbar]] (werden jeden Montag aufgeschalten)
 
 ** Wahlfacharbeit
 
-   Einzelarbeit, schriftlich. Ca. 150 Semesterstunden.
+   In diesem Vertiefungsfach ist eine Wahlfacharbeit möglich. Diese wird
+   prinzipiell als Einzelarbeit geführt, und es ist mit einem Aufwand von
+   ca. 150 Semesterstunden gerechnet. Die Abgabe der Arbeit erfolgt in
+   schriftlicher Form.
+
+   Genauere Informationen folgen.
 
 ** Literaturempfehlungen
 
@@ -81,4 +88,4 @@
 
     Neben der Kostenseite gibt es aber auch die Ertragsseite.
 
-* Aufarbeitung
+* Aufbereitung
