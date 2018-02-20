@@ -4,6 +4,8 @@
 #+EMAIL: christian.sangvik@gmx.ch
 #+DATE: <2018-02-19 Mon>
 
+#+LATEX_HEADER: \usepackage{ngerman}
+
 * Administratives
 
 ** Semesterplanung
