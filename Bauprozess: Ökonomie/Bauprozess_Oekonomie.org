@@ -13,15 +13,16 @@
    | 19. Feb   | 01 | Editorial              |
    | 26. Feb   | 02 | Die Ökonomie der Stadt |
    | 05. Mär   | 03 | Renditen               |
-   | 12. Mär   | 04 | Chancen und Risiken    |
-   | 19. Mär   |  - | Seminarwoche           |
+   | 12. Mär   | 04 | Chancen & Risiken      |
+   | 19. Mär   | -- | Seminarwoche           |
    | *26. Mär* | 05 | *benotete Übung I*     |
-   | 02. Apr   | 06 | Kosten                 |
-   | 09. Apr   |  - | Sechseläuten           |
-   | 16. Apr   | 07 | Projektentwicklung     |
-   | 23. Apr   | 08 | Die Genossenschaft     |
-   | *30. Apr* | 09 | *benotete Übung II*    |
-   | 07. Mai   | 10 | Wrap-Up                |
+   | 02. Apr   | -- | Osterferien            |
+   | 09. Apr   | 06 | Kosten                 |
+   | 16. Apr   | -- | Sechseläuten           |
+   | 23. Apr   | 07 | Projektentwicklung     |
+   | 30. Apr   | 08 | Die Genossenschaft     |
+   | *07. Mai* | 09 | *benotete Übung II*    |
+   | 14. Mai   | 10 | Wrap-Up                |
 
    - zwei benotete schriftliche Übungen während des Semesters
    - Vorlesung ist Grundvoraussetzung für Wahlfacharbeit
