@@ -91,4 +91,104 @@
 
     Neben der Kostenseite gibt es aber auch die Ertragsseite.
 
+** Die Ökonomie der Stadt, [[file:Vorlesungsfolien/02_Die_Oekonomie_der_Stadt_V.pdf][Folien]]
+
+*** Einstieg
+
+    Stadt - Abgeleitetes Wort von Stad, Standort, Stelle.
+
+    In der Bewerbung von sehr teuren Bauten beispielsweise in New York, wird dem
+    Gebäude keine Rechnung mehr getragen. Es wird nur noch mit der Lage
+    geworben. Baurechtlich sind die gezeigten Bilder aber sehr fraglich, da seit
+    1916 die ``Wedding Cakes'' in den /zoning laws/ vorgeschrieben sind.
+
+    In New York kann man aber /air rights/ von Nachbarn dazukaufen.
+
+    Ähnliches ist in Zürich mit den /Ausnützungstransfers/ möglich. So kann man
+    höher und mit mehr Volumen bauen, als eigentlich vorgesehen.
+
+    Die ökonomischen und rechtlichen Prinzipien von New York und Zürich sind
+    durchaus vergleichbar, obwohl natürlich die Gebäude um einiges niedriger und
+    kleiner sind.
+
+    Ein Ertragssprung findet um das 5. - 7. Geschoss statt, da die
+    Umgebungsbebauung niedriger ist, und man so einen viel weiteren Ausblick
+    hat.
+
+    Pro Geschoss wird der Wohnraum durchschnittlich um 3.17% teurer. Dadurch
+    resultieren circa 25% mehr Einnahmen.
+
+*** Die Stadt als ökonomisches Phänomen
+
+    Warum die Menschen bereit dazu sind so viel zu bezahlen, um in der Höhe zu
+    wohnen liegt in der Ökonomischen gegebenheit.
+
+    In der Urproduktion waren die Menschen an die Fläche gebunden, um ihr
+    Überleben zu sichern und genug zu produzieren. Durch technische Entwicklung
+    und Spezialisierung mit Handel war nicht mehr jeder genötigt den Platz zu
+    beanspruchen.
+
+    Die die Spezialisierung machte auch Schutzmassnahmen notwendig. Schutz
+    bedeutet Mauer, Turm und Befestigung. Somit waren die Spezialisten, die
+    Technische und andere Güter herstellten die Begründer der ersten Städte.
+
+    Je nach Art der Dienstleistung muss man näher des Zentrums sein. Die
+    Bereitschaft zu zahlen nimmt aber generell ab, je weiter weg man vom Zentrum
+    kommt.
+
+    Beweggründe hierfür sind diverse Faktoren:
+
+    - Time is money. Je höher der Stundenlohn, desto wichtiger ist die Zentralität.
+
+*** Fokus Zürich
+
+    Der Status einer Stadt ist nicht an ihre Grösse gebunden, sondern an ihre
+    Wichtigkeit in diversen Bereichen. Zürich ist also unproportional wichtig zu
+    ihrer Grösse.
+
+    Zürich scheint relativ effizient auch in den Pendelströmen und Bewegungen.
+
+**** Auktion: Objekt 1, Gironde
+
+     1'096'000.- CHF
+
+**** Auktion: Objekt 2, Seebach
+
+     1'050'000.- CHF
+
+**** Erklärungsansätze
+
+     Die Kaufkraft in Frankreich ist nicht dieselbe wie in der Schweiz. Man
+     müsste ungefähr 50% des Brutto-Median-Einkommens für das Schloss
+     aufwenden. Das Medianeinkommen in der Gironde ist nur ca. 25'000
+     CHF/Jahr. In Zürich ist es um 125'000 CHF/Jahr.
+
+     Man sollte maximal 30% des Bruttolohns für Wohnkosten aufwenden.
+
+     Das Einkommen und die Kaufkraft machen einen enormen Hebel aus auf die
+     Kosten der Ligenschaften.
+
+     Im Durchschnitt zahlt ein Zürcher aber nur ca 17% seines
+     Bruttojahreseinkommens für das Wohnen.
+
+     Die Preissteigerung von 3.7% pro Etage ist aber nur auf die Landkosten
+     zurückzuführen. Die Erstellungskosten weichen bei weitem nicht so stark
+     ab.
+
+     Das *Verhältnis* der Anlagekosten zwischen der Erstellungskosten und dem
+     Landwert heisst Lageklasse. Dieses Verhältnis ist in ähnlichen Lagen immer
+     dasselbe, obwohl die absoluten Werte stark voneinander abweichen kann.
+
+** Renditen
+
+** Chancen & Risiken
+
+** Kosten
+
+** Projektentwicklung
+
+** Die Genossenschaft
+
+** Wrap-Up
+
 * Aufbereitung
