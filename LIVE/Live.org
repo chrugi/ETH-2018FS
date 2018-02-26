@@ -1,0 +1,25 @@
+#+TITLE: Live
+#+SUBTITLE: Mitschriften und Notizen
+#+AUTHOR: Christian Sangvik
+#+DATE: <2018-02-23 Fre>
+#+EMAIL: christian.sangvik@gmx.ch
+
+* Administration
+
+  [[https://ursprung.arch.ethz.ch/seminarien/live][Website]]
+
+** Stundenplan
+
+   Vorlesung nicht wöchentlich
+
+   | 23. Feb | 01 | Einführung                         |
+   | 02. Mär | 02 | On Site / In the field             |
+   | 16. Mär | 03 | Echtzeit / Postproduction          |
+   | 14. Apr | 04 | Presence / Experience Economy      |
+   | 27. Apr | 05 | Dokumentarism / Direct Cinema      |
+   | 04. Mai | 06 | Improvisation / Transformations    |
+   | 18. Mai | 07 | No Picture Policy / Performativity |
+
+* Vorlesungen
+
+** Into / Overview
