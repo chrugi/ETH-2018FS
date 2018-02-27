@@ -14,19 +14,19 @@
 
 ** Übersicht Programm
 
-  | 23. Feb | 01 | Thematische Einführung                              |
-  | 02. Mär | 02 | Gastinput und Gruppeneinteilung                     |
-  | 09. Mär | 03 | Methoden und wissenschaftliches Arbeiten            |
-  | 16. Mär | 04 | Feedback zu Abgaben, Interviewleitfaden             |
-  | 23. Mär | -- | Seminarwoche                                        |
-  | 30. Mär | -- | Osterferien                                         |
-  | 06. Apr | -- | Osterferien                                         |
-  | 13. Apr | 05 | Feedback zu Abgaben, Präsentation Material          |
-  | 20. Apr | 06 | Tischkritik I                                       |
-  | 27. Apr | 07 | Tischkritik II                                      |
-  | 04. Mai | 08 | *Schlussabgabe*, Wahlfachauswertung, *Präsentation* |
-  | 11. Mai | 09 | Kein Wahlfach, Zeitungsproduktion                   |
-  | 18. Mai | 10 | Abschlussveranstaltung vor Ort                      |
+    | 23. Feb | 01 | Thematische Einführung                              |
+    | 02. Mär | 02 | Gastinput und Gruppeneinteilung                     |
+    | 09. Mär | 03 | Methoden und wissenschaftliches Arbeiten            |
+    | 16. Mär | 04 | Feedback zu Abgaben, Interviewleitfaden             |
+    | 23. Mär | -- | Seminarwoche                                        |
+    | 30. Mär | -- | Osterferien                                         |
+    | 06. Apr | -- | Osterferien                                         |
+    | 13. Apr | 05 | Feedback zu Abgaben, Präsentation Material          |
+    | 20. Apr | 06 | Tischkritik I                                       |
+    | 27. Apr | 07 | Tischkritik II                                      |
+    | 04. Mai | 08 | *Schlussabgabe*, Wahlfachauswertung, *Präsentation* |
+    | 11. Mai | 09 | Kein Wahlfach, Zeitungsproduktion                   |
+    | 18. Mai | 10 | Abschlussveranstaltung vor Ort                      |
 
 ** Fragestellung
 
