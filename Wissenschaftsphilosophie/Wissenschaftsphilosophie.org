@@ -61,3 +61,39 @@
 *** Bacon
 
     Wissenshaft gerechtfertig durch Anwendbarkeit und praktischen Nutzen.
+
+** Logischer Empirismus
+
+*** Philosophiegeschichte
+
+    *Empirismus* - /Alles Wissen/ nimmt seinen Anfang in der Erfahrung. Es muss
+    begründbar sein. "Nichts ist im Geiste, was vorher nicht schon in den Sinnen
+    war."
+    #+BEGIN_LaTeX
+    \vspace{.3cm}
+    #+END_LaTeX
+
+    #+BEGIN_LaTeX
+    \noindent{}
+    #+END_LaTeX
+    *Rationalismus* - Es gibt in /jedem Wissen/ einen Anteil, der nicht aus der
+    Erfahrung kommt. Der Verstand bringt auch neue Erkenntnis. "Nichts ist im
+    Geiste, was nicht vorher in den Sinnen war, außer dem Verstand selbst."
+    #+BEGIN_LaTeX
+    \vspace{.3cm}
+    #+END_LaTeX
+
+    #+BEGIN_LaTeX
+    \noindent{}
+    #+END_LaTeX
+    *Positivismus* - Positivismus ist reell, widmet sich dem, was wir
+     tatsächlich verstehen können. Wir akzeptieren keine unlösbaren
+     Fragen. Positivismus zielt auf einen Nutzen für den Menschen ab. Führt zu
+     überprüfbaren Resultaten und ist präzise. Positivismus ist nie
+     skeptisch. (19. Jh.)
+    #+BEGIN_LaTeX
+    \vspace{.3cm}
+    #+END_LaTeX
+
+    Die Strömungen im 20. Jh. sind allesamt aufklärerischer Natur, und haben
+    nicht zur absicht weiter zu verwirren.
