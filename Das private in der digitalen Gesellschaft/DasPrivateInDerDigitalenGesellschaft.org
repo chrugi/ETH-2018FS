@@ -1,0 +1,135 @@
+#+TITLE: Das Private in der digitalen Gesellschaft
+#+SUBTITLE: Mitschriften und Notizen
+#+AUTHOR: Christian Sangvik
+#+DATE: <2018-02-27 Die>
+
+* Organisatorisches
+
+** Stundenübersicht
+
+   | 27. Feb | 02 |
+   | 06. Mär | 03 |
+   | 13. Mär | 04 |
+   | 20. Mär | 05 |
+   | 27. Mär | 06 |
+   |         | -- |
+   | 10. Apr | 07 |
+   | 17. Apr | 08 |
+   | 24. Apr | 09 |
+   | 08. Mai | 10 |
+   | 15. Mai | 11 |
+   | 22. Mai | 12 |
+   | 29. Mai | 13 |
+
+** Protokoll der Sitzung
+
+   Post Privacy 
+
+   Die Privatsphäre wird gar nie beschrieben oder definiert.
+
+   Metapher "Internet mit daten füttern"
+
+   Heller reflektiert seine eigenen Prämissen nicht.
+
+   Es ist ein vielschichtiger Text der viele Probleme bietet. Heller stellt
+   einfach die Behauptung auf, dass es das private nicht mehr gibt. Datenschutz
+   sei nicht mehr möglich.
+
+   Die Frage ist nach Unstimmig
+
+   Fragen für die Sitzung
+
+
+   - Warum verlegen die Leute ihr Leben ins Internet? / Warum löschen die Leute
+     nicht einfach ihre Profile auf Facebook, etc.?
+   - Was ist das technologische am Internet
+   - Was passiert mit dem Menschen im digitalen Zeitalter
+   - Was tun?
+
+
+   
+** Warum verlegen die Leute ihr Leben ins Internet?
+
+   [Herr Meyer gibt sich dem Netz preis]
+
+   Das Netz will etwas
+   Es scheint ein Monster
+   Wird organisch dargestellt
+   Der Nutzer nimmt sich hinaus
+   Naruralisierung
+   Keine Anzeichen für Technik im Text, sondern nur das Schauerbild.
+   Das Monster hat hunger. (Machine learning?)
+   Wird im Text forciert durch die wiederholung.
+
+   Prämisse, dass das Netz unkontrollierbar ist und legt sich über den gesamten
+   Planeten.
+
+   Keine Geschichte des Internets aus der technischen perspe
+
+   Die Gesellschaft hat die Motivation am Netz teilzunehmen. Sonst verliert der
+   Mensch den Anschluss an der Gesellschaft. Derjenige der teilnimmt wird zum
+   Teil des Netzes. (Sich selber aufgeben?) (Verwandeln auch an Kostümparties?,
+   Im Beruf, Drogenmissbrauch, Selbstinszenierung)
+
+   Ausflucht aus dem Alltag. Ist Ausflucht notwendig? Verwandlung in allen
+   Gesellschaften.
+
+   Notwendigkeit, dass Menschen sich verwandeln, damit alle Seiten zum tragen
+   kommen.
+
+   Ritualisierung der Verwandlung. Kriegführen von Archaischen stämmen. Nichts
+   anstössiges per se. Aber im Internet ist jeden Tag Karnewal.
+
+   Netz = Kommunikation
+
+   Wechselseitige beziehung nach kommerzieller Art (Ich geb' dir was, du gibst
+   mir was) Grundkapitalistische logik. Aber man ist sich nicht bewusst, was man
+   preisgibt. 
+
+   über das Netz mit andern austauschen,. aber eigentlich kommuniziert man
+   damit.
+
+   Daten in das Netz einspeisen. Wir müssen nicht einmal sprechen um Information
+   zu generieren und zu kommunizieren. 
+
+   Was ist Information, was sind Daten?
+
+   Interface vs. backend? Maschinenraum, der permanent arbeitet.
+
+   Internet als Basar, der überwacht ist und alle Informationen nicht mehr weg
+   gehen. Alles was jemals im Internet war ist da für immer.
+
+   Asymetrische Tauschbeziehung. Abhängigkeit. Gute Idee. Können wir wissen, was
+   der Preis für uns ist?
+
+   Begrüdbares Bedürfnis sich darzustellen und mit dem Netz zu
+   interagieren. Allerdings sind die Gefahren nicht abzuschätzen. Es könnte auch
+   sein, dass das Netz an sich nicht gefährlich ist. Hat aus guter Idee heraus
+   begonnen.
+
+   Was macht die digitale Gesellschaft mit dem Menschen?
+
+   Kollektivproblem. Ich kann mich nicht alleine davor schützen?
+
+   Ursprünglich aufklärerisch . politsches Projekt.
+
+
+   Wir haben wieder die Privatsphäre nicht diskutiert. Symptom?
+
+
+
+   Was tun?
+
+   Recht setzt auf Territorien. Das internet ist nicht territorial. Gezielte
+   überschreitung des Rechtes auch von Staatswegen?
+
+   Dogmen werden abgelehnt
+
+   Bewusstsein Aufklärung
+
+   Recht
+   Politik
+
+   Angreifen
+
+   Eine Frage des Ganzen.
