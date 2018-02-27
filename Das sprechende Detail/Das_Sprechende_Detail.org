@@ -4,6 +4,50 @@
 #+EMAIL: christian.sangvik@gmx.ch
 #+DATE: <2018-02-19 Mon
 
-* Einführung
+* Administratives
 
-  [Die Veranstaltung fiel am 19. Februar 2018 aus]
+** Ringvorlesung
+
+   - Verschiedene Haltungen zum Detail
+   - Anwesenheit und aktive Teilnahme
+   - Jeder Student ist Themenspezialist
+
+** Kolloquien
+
+   - Vor- und Nachbesprechung Ringvorlesung
+   - Texte lesen und besprechen
+   - Eigene Detaillektüre
+
+** Essay
+
+   - 2-4 Seiten geschriebener Text
+   - Abgabe Juni 2018
+
+** Semesterinhalt
+
+** Programm
+
+   | 26. Feb | Kolloquium    |                                 |
+   | 05. Mär | Ringvorlesung | Elli Mosayebi (EMI Architekten) |
+
+
+** Textsammlung
+
+   Die Textsammlung ist auf [[https://moodle-app2.let.ethz.ch/course/view.php?id%3D4339][Moodle]] verfügbar.
+
+* Vorlesungen
+
+** Einführung
+
+   Detail. französisch /détail/, abteilen, in Einzelteile zerlegen, zu: tailler,
+   Taille.
+
+   Die Haltung zu den Details war in der Geschichte der Architektur sehr
+   unterschiedlich. Von /There is no detail/ über /das Detail darf nicht zu
+   sehr in den Vordergrund rücken/ und /das Detail ist mitunter das schönste am
+   Bau/ bis hin zu /Gott liegt im Detail/.
+
+   Detail ist auch ein vielschichtiger Begriff.
+
+   - Materialität, Stofflichkeit
+   - Das Fügen, die Handwerklichkeit
