@@ -1,0 +1,70 @@
+#+TITLE: Technikgeschichte für Neugierige
+#+SUBTITLE: Mitschriften und Notizen
+#+AUTHOR: Christian Sangvik
+#+EMAIL: christian.sangvik@gmx.ch
+#+DATE: <2018-02-27 Die>
+
+* Administration
+
+  David Gugerli
+
+  - Lektürelastig
+
+    Kurs auf [[https://moodle-app2.let.ethz.ch/course/view.php?id%3D4214][Moodle]].
+
+** Fragen
+
+   - Technik als Wunschmaschine
+   - Technik als Katastrophe
+   - Technik als Innovation
+   - Technik als Assoziation
+
+** Vorbereitung
+
+   Pro Sitzung den Haupttext lesen und einmal im Semester noch den
+   Sekundärtext.
+
+   Kommentar liefern. Abgabe jeweils Sonntags.
+
+** Übersicht Programm
+
+   | 27. Feb | 01 | Einführung         |
+   | 06. Mär | 02 | Wunschmaschine I   |
+   | 13. Mär | 03 | Wunschmaschine II  |
+   | 20. Mär | 04 | Wunschmaschine III |
+   | 27. Mär | 05 | Wunschmaschine IV  |
+   |         | -- |                    |
+   | 10. Apr | 06 | Katastrophe I      |
+   | 17. Apr | 07 | katastrophe II     |
+   | 24. Apr | 08 | Innovation I       |
+   |         | -- |                    |
+   | 08. Mai | 09 | Innovation II      |
+   | 15. Mai | 10 | Assoziation I      |
+   | 22. Mai | 11 | Assoziation II     |
+   | 29. Mai | 12 | Bilanz             |
+
+* Vorlesungen
+
+** Einführung
+
+** Wunschmaschine I
+
+** Wunschmaschine II
+
+** Wunschmaschine III
+
+** Wunschmaschine IV
+
+** Katastrophe I
+
+** Katastrophe II
+
+** Innovation I
+
+** Innovation II
+
+** Assoziation I
+
+** Assoziation II
+
+** Bilanz
