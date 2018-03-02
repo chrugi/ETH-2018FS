@@ -255,6 +255,8 @@
     Rosengartenstrasse in den Fokus. Was könnte eine Verkehrsberuhigung heute
     bewirken?
 
-* Arbeitsorganisation
+* Arbeitsorganisation, Agenda
 
-** TODO Zeitung lesen auf 2. März
+** Freitag, 2. März
+
+   - [X] Zeitung lesen
