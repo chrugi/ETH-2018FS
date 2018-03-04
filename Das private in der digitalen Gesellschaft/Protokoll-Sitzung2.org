@@ -4,8 +4,10 @@
 #+LATEX_HEADER: \usepackage{ngerman}
 #+LATEX_HEADER: \addtokomafont{disposition}{\rmfamily}
 
+#+OPTIONS: toc:nil
+
 #+TITLE: Post-Privacy
-#+LATEX_HEADER: \subtitle{Protokoll}
+#+LATEX_HEADER: \subtitle{Protokoll der Sitzung vom 27.2.2018}
 #+AUTHOR: Christian Sangvik
 
 * Generelles
