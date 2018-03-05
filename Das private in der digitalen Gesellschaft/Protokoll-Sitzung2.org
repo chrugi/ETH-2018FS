@@ -9,10 +9,11 @@
 #+TITLE: Post-Privacy
 #+LATEX_HEADER: \subtitle{Protokoll der Sitzung vom 27.2.2018}
 #+AUTHOR: Christian Sangvik
+#+DATE: 4. März 2018
 
 * Generelles
 
-  Wir haben in der zweiten Sitzung den Text "Post-Privacy" von Christian Heller
+  Wir haben in der zweiten Sitzung den Text ``Post-Privacy'' von Christian Heller
   diskutiert.cite:Heller2011
 
   Beim Lesen des Textes ist aufgefallen, dass Heller den Begriff der
@@ -46,7 +47,7 @@
   Es scheint Teil einer jeden Gesellschaft zu sein, dass sich die Menschen in
   ihr bisweilen verstellen, aus dem Alltagstrott ausbrechen, oder in einer
   Ausnahmesituation, wo sie sich zusammenrotten müssen, hinter eine andere
-  "Fassade" begeben wollen. Wir müssen quasi am Netz teilnehmen, um nicht den
+  Fassade begeben wollen. Wir müssen quasi am Netz teilnehmen, um nicht den
   Anschluss an die Gesellschaft zu verlieren. Und wer teilnimmt wird
   gleichzeitig zum Teil des Netzes.
 
@@ -70,7 +71,7 @@
 
   Heller beschreibt das Internet als ein organisches Wesen, eine Art Monster,
   das aktiv agiert und nach Daten hungert, welche der Mensch bereitwillig
-  "füttert". Und das Monster ist sehr hungrig, da es ständig mehr lernen
+  füttert. Und das Monster ist sehr hungrig, da es ständig mehr lernen
   will. Sein Wesen scheint das mehr lernen zu sein, da es so konzipiert ist.
 
   Allgemein wird die technische Funktionsweise des Internets im Text nicht
@@ -135,7 +136,7 @@
   mit gezielten Angriffen und Fehlinformationen? Ich denke nicht. Aber eine
   Bewegung in die richtige Richtung wäre in meinen Augen, wenn man das Konzept
   des Internets wieder vermehrt wie in dessen Anfängen lesen und auch leben
-  würden: Ein *dezentrales* Netzwerk, an dem jeder teilhaben *kann*. Wir müssen
+  würden: Ein /dezentrales/ Netzwerk, an dem jeder teilhaben /kann/. Wir müssen
   mit Bedacht und Bewusstsein damit umgehen.
 
 bibliography:dasprivateinderdigitalengesellschaft.bib
