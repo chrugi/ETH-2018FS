@@ -12,113 +12,131 @@
 
 * Generelles
 
-  Post Privacy 
+  Wir haben in der zweiten Sitzung den Text "Post-Privacy" von Christian Heller
+  diskutiert.cite:Heller2011
 
-  Die Privatsphäre wird gar nie beschrieben oder definiert.
-  
-  Metapher "Internet mit daten füttern"
-  
-  Heller reflektiert seine eigenen Prämissen nicht.
+  Beim Lesen des Textes ist aufgefallen, dass Heller den Begriff der
+  Privatsphäre gar nie ausführt, sondern einfach im Sinne einer Prämisse davon
+  ausgeht, dass es eben jene nicht mehr gibt und ein eigentlicher Datenschutz
+  nicht mehr möglich sei. Dies ist nicht der einzige Punkt,
+  wo es scheint, dass er seine eigenen Prämissen nicht überprüft.
 
-  Es ist ein vielschichtiger Text der viele Probleme bietet. Heller stellt
-  einfach die Behauptung auf, dass es das private nicht mehr gibt. Datenschutz
-  sei nicht mehr möglich.
-  
-  Die Frage ist nach Unstimmig
-  
-  Fragen für die Sitzung
-  
-  
-   - Warum verlegen die Leute ihr Leben ins Internet? / Warum löschen die Leute
-     nicht einfach ihre Profile auf Facebook, etc.?
-   - Was ist das technologische am Internet
-   - Was passiert mit dem Menschen im digitalen Zeitalter
-   - Was tun?
+  Abgesehen von nicht diskutierten Behauptungen zeigt Heller aber auf einer sehr
+  bildlichen und metaphorischen Weise, wie er uns Menschen in Interaktion mit
+  dem Internet sieht.
 
+  Wir haben zum diskutieren eine Grundstruktur basierend auf vier Fragen
+  erarbeitet:
 
-   
-* Warum verlegen die Leute ihr Leben ins Internet?
+  - Warum verlegen die Leute ihr Leben ins Internet?
+  - Wie funktioniert das Internet in technischer Sicht?
+  - Was passiert mit dem Menschen im digitalen Zeitalter?
+  - Was tun ausgehend von der jetzigen Situation?
 
-  [Herr Meyer gibt sich dem Netz preis]
+  Bemerkenswert an unserer Diskussion war ausserdem, dass wir, selbst nachdem
+  wir uns zu beginn schon klar gemacht haben, dass der Autor die Privatsphäre
+  nicht diskutiert hat, dies auch nicht getan haben. Ist dies ein Symptom einer
+  Diskussion über das Internet und das Private?
 
-  Das Netz will etwas
-  Es scheint ein Monster
-  Wird organisch dargestellt
-  Der Nutzer nimmt sich hinaus
-  Naruralisierung
-  Keine Anzeichen für Technik im Text, sondern nur das Schauerbild.
-  Das Monster hat hunger. (Machine learning?)
-  Wird im Text forciert durch die wiederholung.
+* Leben im Internet
 
-  Prämisse, dass das Netz unkontrollierbar ist und legt sich über den gesamten
-  Planeten.
+  Warum der Mensch sich dem Internet preisgibt lässt sich nicht sagen. Aber wir
+  können mehrere Beweggründe vermuten.
 
-  Keine Geschichte des Internets aus der technischen perspe
+  Es scheint Teil einer jeden Gesellschaft zu sein, dass sich die Menschen in
+  ihr bisweilen verstellen, aus dem Alltagstrott ausbrechen, oder in einer
+  Ausnahmesituation, wo sie sich zusammenrotten müssen, hinter eine andere
+  "Fassade" begeben wollen. Wir müssen quasi am Netz teilnehmen, um nicht den
+  Anschluss an die Gesellschaft zu verlieren. Und wer teilnimmt wird
+  gleichzeitig zum Teil des Netzes.
 
-  Die Gesellschaft hat die Motivation am Netz teilzunehmen. Sonst verliert der
-  Mensch den Anschluss an der Gesellschaft. Derjenige der teilnimmt wird zum
-  Teil des Netzes. (Sich selber aufgeben?) (Verwandeln auch an Kostümparties?,
-  Im Beruf, Drogenmissbrauch, Selbstinszenierung)
+  Es scheint bisweilen sogar notwendig, dass sich der Mensch verwandelt, damit
+  auch andere Seiten seiner selbst zum Tragen kommen, welche er normalerweise
+  nicht ausleben kann. Die Verwandlung selber kann auch als ein Ritual gelesen
+  werden.
 
-  Ausflucht aus dem Alltag. Ist Ausflucht notwendig? Verwandlung in allen
-  Gesellschaften.
+  Ich denke, dass wir uns einigermassen einig sind, dass wir uns mit der
+  Teilnahme nicht notwendigerweise selber aufgeben, sondern dass wir nur eine
+  Maske aufsetzen, wie auch am Karnevall, im Beruf oder bei anderen Formen der
+  Selbstinszenierung. Der Unterschied scheint jedoch darin zu bestehen, dass im
+  Internet jeden Tag Karnevall ist.
 
-  Notwendigkeit, dass Menschen sich verwandeln, damit alle Seiten zum tragen
-  kommen.
+  Ein durchaus nicht zu vergessender Punkt für das Netz ist dessen Einfachheit
+  und Effizienz. Wir können ungeachtet grosser Distanzen in Echtzeit
+  Informationen austauschen, was unseren Alltag mittlerweile massgebend
+  bestimmt.
 
-  Ritualisierung der Verwandlung. Kriegführen von Archaischen stämmen. Nichts
-  anstössiges per se. Aber im Internet ist jeden Tag Karnewal.
+* Das Internet
 
-  Netz = Kommunikation
+  Heller beschreibt das Internet als ein organisches Wesen, eine Art Monster,
+  das aktiv agiert und nach Daten hungert, welche der Mensch bereitwillig
+  "füttert". Und das Monster ist sehr hungrig, da es ständig mehr lernen
+  will. Sein Wesen scheint das mehr lernen zu sein, da es so konzipiert ist.
 
-  Wechselseitige beziehung nach kommerzieller Art (Ich geb' dir was, du gibst
-  mir was) Grundkapitalistische logik. Aber man ist sich nicht bewusst, was man
-  preisgibt. 
+  Allgemein wird die technische Funktionsweise des Internets im Text nicht
+  diskutiert, sondern ein Schauermärchen aus Bildern entwickelt. Das Monster hat
+  hunger, ein Bild, welches forciert wiederholt wird zur Verstärkung seiner
+  Wirkung.
 
-  über das Netz mit andern austauschen,. aber eigentlich kommuniziert man
-  damit.
+  In seinem Wissensdurst und durch die Art, wie das Netz als Schnittstelle des
+  Austausches jedes einzelnen Computers, und damit von den Menschen die sich
+  hinter dem Schirm befinden, steht, wird das Netz selber unkontrollierbar und
+  legt sich so flächendeckend über den gesamten Planeten. Das Netz ist nicht
+  Teil der Kommunikation, es ist vielmehr die Kommunikation selbst. Wir möchten
+  eingentlich über das Netzwerk mit anderen kommunizieren, kommunizieren aber
+  letzten Endes mit dem Netz selbst.
 
-  Daten in das Netz einspeisen. Wir müssen nicht einmal sprechen um Information
-  zu generieren und zu kommunizieren. 
+  Das Internet ist eine wechselseitige Beziehung nach kommerzieller Art. Wir
+  geben Daten hinein, und bekommen dafür andere Daten zurück. Allerdings können
+  wir nur schwerlich den Preis ausmachen, da wir nicht genau wissen, welche
+  Daten denn eigentlich von uns genommen werden, und auch nicht, wozu diese
+  Daten denn letzten Endes gebraucht werden. Es stellt sich denn auch die Frage;
+  Was ist Information, was sind Daten? Klar ist nur, dass das Internet eine Art
+  Basar für Daten ist. Jedem ist auch klar, dass dieser Basar auch überwacht
+  ist. Doch wer überwacht ihn, und in welchem Masse? Müssen wir uns denn
+  überhaupt vor einer Überwachung fürchten, oder mag sie uns sogar dienen?
 
-  Was ist Information, was sind Daten?
+  Eine andere Eigenheit des Netzes ist dessen Speicherfunktion. Was einmal ins
+  Netz eingespeist wurde, geht niemals wieder weg. Daten, die ihren Weg ins Netz
+  gefunden haben, können nicht mehr gelöscht werden, da sie bereits mit der
+  Eingabe x-Fach kopiert und eingelagert wurden. Das Internet ist nicht eine
+  Oberfläche, die sich den Menschen die mit ihm interagieren zeigt, sondern eine
+  Art Maschinenraum, der ständig arbeitet, Daten verschiebt und kopiert, neues
+  generiert und niemals schläft. Wir brauchen die Daten des Internets nicht
+  einmal selber zu generieren, sondern alleine die Metadaten, die durch die
+  Nutzung anfallen sind neue verwendbare Daten.
 
-  Interface vs. backend? Maschinenraum, der permanent arbeitet.
+* Die Zukunft
 
-  Internet als Basar, der überwacht ist und alle Informationen nicht mehr weg
-  gehen. Alles was jemals im Internet war ist da für immer.
+  Das Internet ist aus einer guten Idee heraus entstanden, einfach und von
+  überal aus sich austauschen zu können. Es ist aber wichtig, dass es ein können
+  und kein müssen ist. In der heutigen Zeit aber ist es zu einem Zwang
+  geworden. Viele Alltagshandlungen sind ohne Internet nicht mehr denkbar,
+  selbst wenn das Netzwerk für einiges verborgen im Hintergrund bleibt.
 
-  Asymetrische Tauschbeziehung. Abhängigkeit. Gute Idee. Können wir wissen, was
-  der Preis für uns ist?
+  Es ist also wahrscheinlich nicht der richtige Weg, gegen das Internet
+  ankämpfen zu wollen. Wir sollten uns aufklärerisch auseinandersetzen, was
+  diese neue Lebensweise für uns bedeutet, und wir müssen uns positionieren, wie
+  wir damit umgehen wollen.
 
-  Begrüdbares Bedürfnis sich darzustellen und mit dem Netz zu
-  interagieren. Allerdings sind die Gefahren nicht abzuschätzen. Es könnte auch
-  sein, dass das Netz an sich nicht gefährlich ist. Hat aus guter Idee heraus
-  begonnen.
+  Viele wünschen sich ein Regelwerk, welches Gefahren und Risiken minimiert. Ein
+  solches Regelwerk ist aber nur schwerlich umzusetzen, da das Internet nicht
+  mehr territorial funktioniert, wie dies klassische Gesetzgebungen
+  tun. Ausserdem, selbst wenn wir eine Regelung hätten, wer würde diese
+  forcieren? Das Vertrauen der Menschen in irgendwelche Instanzen, seien sie
+  national, international oder gar privat, scheint gebrochen oder mindestens
+  belastet. Wir hören immer wieder von neuen Rechtsüberschreitungen im grossen
+  Stil, und dies auch von Staatswegen.
 
-  Was macht die digitale Gesellschaft mit dem Menschen?
+  Ein anderes Problem ist die Frage, ob wir uns denn, selbst wenn wir so
+  gewissenhaft mit der Ressource Internet umgehen, wie wir nur können, überhaupt
+  selber schützen können, oder sind wir bereits Opfer von der Nutzung anderer,
+  welche dann Rückschlüsse auf uns zulassen? Können wir das Internet torpedieren
+  mit gezielten Angriffen und Fehlinformationen? Ich denke nicht. Aber eine
+  Bewegung in die richtige Richtung wäre in meinen Augen, wenn man das Konzept
+  des Internets wieder vermehrt wie in dessen Anfängen lesen und auch leben
+  würden: Ein *dezentrales* Netzwerk, an dem jeder teilhaben *kann*. Wir müssen
+  mit Bedacht und Bewusstsein damit umgehen.
 
-  Kollektivproblem. Ich kann mich nicht alleine davor schützen?
-
-  Ursprünglich aufklärerisch . politsches Projekt.
-
-
-  Wir haben wieder die Privatsphäre nicht diskutiert. Symptom?
-
-
-
-  Was tun?
-
-  Recht setzt auf Territorien. Das internet ist nicht territorial. Gezielte
-  überschreitung des Rechtes auch von Staatswegen?
-
-  Dogmen werden abgelehnt
-
-  Bewusstsein Aufklärung
-
-  Recht
-  Politik
-
-  Angreifen
-
-  Eine Frage des Ganzen.
+bibliography:dasprivateinderdigitalengesellschaft.bib
+bibliographystyle:unsrt
