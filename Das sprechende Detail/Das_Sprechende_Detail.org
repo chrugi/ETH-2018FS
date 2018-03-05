@@ -2,7 +2,6 @@
 #+SUBTITLE: Mitschriften und Notizen
 #+AUTHOR: Christian Sangvik
 #+EMAIL: christian.sangvik@gmx.ch
-#+DATE: <2018-02-19 Mon
 
 * Administratives
 
@@ -51,3 +50,5 @@
 
    - Materialität, Stofflichkeit
    - Das Fügen, die Handwerklichkeit
+
+** Türen, Elli Mosayebi
