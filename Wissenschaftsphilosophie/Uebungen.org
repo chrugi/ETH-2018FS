@@ -1,0 +1,76 @@
+#+TITLE: Wissenschaftsphilosophie Uebungen
+#+AUTHOR: Christian Sangvik
+#+DATE: <2018-02-27 Die>
+
+* Methoden der Textanalyse
+
+** Grundinformationen
+
+   gezielt Angaben suchen, die für das Textverständnis wichtig sein könnten. Es
+   ist wichtig den Kontext des Textes zu verstehen, um den Text zu verstehen
+   können.
+
+** Lesen
+
+   wenn es sich lohnt einen Text zu lesen, lohnt es sich, ihn mehrfach zu lesen.
+
+   mehrere Durchgänge, von schnell zu langsam, von sequentiell zu Punktuell
+
+   Vorerst diagonal lesen. Als zweiter schritt kursorisch lesen. Struktur und
+   Züge des Textes werden klar. Man hat mit dem Gerüst mindestens schon die
+   Zielrichtung der Aussage des Textes.
+
+   Intensives Lesen als dritter Schritt. Der Text wird mit seinem Inhalt und
+   Kontext im detail erfasst. Dabei muss man den Text bearbeiten und schriftlich
+   arbeiten. Der Text muss überarbeitet und kommentiert werden..
+
+** Gliederung
+
+   die zentrale Arbeitsmethode: Gedankengang übersichtlich darstellen
+
+   Das Ziel ist es den Gedankengang des Textes schriftlich übersichtlich
+   darzustellen
+
+   Text in Abschnitte einteilen, die eine gedankliche Einheit bilden
+
+   Pro Abschnitt einen "Titel" formulieren, der Inhalt und Funktion ausdrückt
+
+   Inhalt: Um was geht es in diesem Abschnitt?
+
+   Funktion: Welche Funktion erfüllt der Abschnitt? z.B. Definition, These,
+   Einwand, Antwor, Argument, Beispiel
+
+   hierarchische Struktur klären (evtl. Dezimalnummern!)
+
+   Es ist nicht unüblich Gegenargumente zuerst anzuführen, diese zu diskutieren
+   und anschliessend dagegen zu argumentieren. Dies hilft auch der logischen
+   Struktur des Textes.
+
+   Auf Beziehungen zwischen den Abschnitten achten.
+
+   Absätze nummerieren.
+
+** Zusammenfassen
+
+   wesentlichen Inhalt in eigenen Worten festhalten
+
+** Fragen
+
+   Verständnisprobleme, inhaltliche Unklarheiten und zu diskutierende Punkte
+   schruftlich formulieren.
+
+   Wenn man eine sinnvolle Frage formulieren kann hat man etwas geleistet. Dies
+   ist schwieriger, als es scheint. Wichtig ist es aber, dass man das
+   schriftliche Medium wählt, um Unschärfen im Gedanken auszuräumen.
+
+   Versteckte Grunannahmen herausformulieren.
+
+* Thesenpapier
+
+  Ziel - Überblick über die im Text diskutierten Thesenpapier
+
+** Vorgehen
+
+   Thesen identifizieren
+
+   Thesen Formulieren
