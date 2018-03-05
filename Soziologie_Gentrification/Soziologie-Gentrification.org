@@ -4,6 +4,8 @@
 #+EMAIL: christian.sangvik@gmx.ch
 
 #+LATEX_CLASS_OPTIONS: [a4paper,11pt,ngerman]
+#+LATEX_CLASS: koma-article
+#+LATEX_HEADER: \addtokomafont{disposition}{\rmfamily}
 #+LATEX_HEADER: \usepackage{ngerman}
 
 * Administration
