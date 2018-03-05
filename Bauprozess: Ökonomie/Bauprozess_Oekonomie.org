@@ -181,7 +181,63 @@
 
 ** Renditen
 
-** Chancen & Risiken
+*** Einstieg
+
+    Jede fünfte Hypothek wird aufgenommen um dsa Objekt später zu vermieten.
+
+    Preise für Eigentumswohnungen sind so hoch, dass man sie eigentlich nicht
+    gewinnbringend vermieten kann. Die Wertsteigerung des Landes muss höher
+    sein, als die Abschreibung des Objektes. Der Landwert und die
+    Immobilienkosten war von der Wirtschaftskriese unberührt. Land und
+    Immobilien gelten als /cash-cows/.
+
+*** Bieterverfahren
+
+    Je nach Exklusivität wird ein Objekt an einen geschlossenen Kreis von
+    Investoren ausgeschrieben, sonst generell öffentlich. Architekten gehen
+    häufig für Investoren an Besichtigungen.
+
+    In der zweiten Phase werden die paar höchstbietenden wieder Eingeladen und
+    eine Finanzierung geprüft.
+
+    Vertrauenshaftung [googlen] ist der Architekt haftbar. Man sollte sich
+    dagegen versichern. Vor allem die rechtliche Situation ist in einem
+    Vorprojekt und einer Machbarkeitsstudie abzuklären. Sie muss lückenlos
+    stimmen.
+
+    Sanierungsstau prüfen. Sanierungsstau bedeutet, dass der Vorbesitzer nichts
+    mehr saniert hat mit der Absicht das Objekt sowieso zu verkaufen. Für
+    umbauten das Baurecht prüfen (Nasszellen, Heizung, Lift, etc.)
+
+    Altlasten prüfen.
+
+    Bäume sind häufig geschützt. Fällgenehmigung häufig erforderlich.
+
+    Risiko auch im Referenzzinssatz. Die Miete muss korrigiert werden. Es kann
+    sein, dass die Bewohner zu hohe Zinsen zahlen, welche sie korrigieren
+    müssen.
+
+    Erträge eines Jahres = Nettomieten
+
+    Glatte Renditezahlen, wie hier mit 5% kommen daher, dass der Verkäufer oder
+    dessen Bank eine gute Rendite vorgiebt, um Investoren anzulocken. Sie ist
+    häufig nicht die Reale rendite. Der Richtverkaufspreis wird dann anhand der
+    Rendite gerechnet.
+
+    Durch technische, gesellschaftliche und politische Entwicklung wurde die
+    Rendite über die zeit immer tiefer. Das risiko war früher sehr viel höher
+    als in unserer Zeit. Die Bruttorendite enthält eigentlich nur die
+    Leerstandsrendite.
+
+    Gesamtrendite (Performance) ist die Summe der Bruttorendite (Total der
+    Einkünfte über die Anlagekosten) plus die Wertänderungsrendite
+    (v.A. Wertsteigerung des Landes).
+
+    Netto-Cashflow-Rendite
+
+*** Brutto-, Netto-, Eigenkapitalrendite
+
+** chancen & Risiken
 
 ** Kosten
 
