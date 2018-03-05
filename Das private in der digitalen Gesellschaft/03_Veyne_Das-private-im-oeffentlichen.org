@@ -1,0 +1,28 @@
+#+LATEX_CLASS: koma-article
+#+LATEX_CLASS_OPTIONS: [a4paper,ngerman,11pt]
+
+#+LATEX_HEADER: \usepackage{ngerman}
+#+LATEX_HEADER: \usepackage{url}
+#+LATEX_HEADER: \addtokomafont{disposition}{\rmfamily}
+
+#+OPTIONS: toc:nil
+
+#+TITLE: Das Private im Öffentlichen Raum\\-- Paul Veyne --
+#+LATEX_HEADER: \subtitle{Kommentar}
+#+AUTHOR: Christian Sangvik
+#+DATE: 4. März 2018
+
+* Autor
+
+  Paul Veyne ist ein französischer (Alt-)Historiker, spezialisiert auf die
+  römische Geschichte. Er wurde am 13. Juni 1930 in Aix-en-Provence geboren,
+  studierte an der /École normale supérieure/ und doziert seit 1976 als
+  Professor für römische Geschichte am /Collège de France/ in Paris. Persönlich
+  stand er Michel Foucault vor dessen Tod sehr nahe.cite:wiki:PaulVeyne-de
+
+* Text
+
+  
+
+bibliographystyle:unsrt
+bibliography:dasprivateinderdigitalengesellschaft.bib
