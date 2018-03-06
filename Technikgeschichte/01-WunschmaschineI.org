@@ -1,0 +1,40 @@
+#+LATEX_CLASS: koma-article
+#+LATEX_CLASS_OPTIONS: [a4paper,11pt,ngerman]
+
+#+TITLE: Wunschmaschine
+#+LATEX_HEADER: \subtitle{Notizen}
+#+AUTHOR: Christian Sangvik
+#+EMAIL: christian.sangvik@gmx.ch
+
+#+LATEX_HEADER: \usepackage{ngerman}
+#+LATEX_HEADER: \addtokomafont{disposition}{\rmfamily}
+
+* Wunschmaschine
+
+  Eine Wunschmaschine wäre wörtlich gesehen eine Maschine, welche Wünsche
+  produziert. Wir verstehen sie aber vielmehr als eine Technik, welche
+  wünschenswertes herstellt oder bringt. Dabei inst der Produktionsprozess
+  wörtlich zu verstehen.
+
+  Wir können eine Wunschmaschine mit einigen Punkten charakterisieren:
+
+  - Projektion Produktion
+  - Elemente isolieren, Mise en place. Vorbereiten der Elemente.
+  - Zusammenbauen
+  - Statik. Man kann nicht alles kombinieren. Kohärenz.
+  - Die Wunschmaschine muss ausblenden, alles verstecken können. Vor Allem aber
+    die Kosten. Fokussierung, Probleme ausblenden
+  - Wunschmaschinen reden immer von einer bevorstehenden Zukunft. Sie grenzen
+    sich von bestehenden Misständen ab. Zukunftsorientiertheit.
+
+    Wunschmaschinen sind keine Science-Fiction.
+
+* `First the Kitchen, then the Façade'
+
+  Aufschwung nach WWI. Neue Gesellschaft, der Frau kommt eine neue Rolle
+  zu. Bestmögliche Mutter mit bestmöglichem Haushalt.
+
+  cite:bullock-1988-kitch-then-facad
+
+bibliographystyle:unsrt
+bibliography:Technikgeschichte.bib
