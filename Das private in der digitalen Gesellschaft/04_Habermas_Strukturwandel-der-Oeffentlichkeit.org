@@ -1,0 +1,40 @@
+#+LATEX_CLASS: koma-article
+#+LATEX_CLASS_OPTIONS: [a4paper,ngerman,11pt]
+
+#+LATEX_HEADER: \usepackage{ngerman}
+#+LATEX_HEADER: \usepackage{url}
+#+LATEX_HEADER: \usepackage{breakurl}
+#+LATEX_HEADER: \addtokomafont{disposition}{\rmfamily}
+
+#+OPTIONS: toc:nil
+
+#+TITLE: Strukturwandel der Öffentlichkeit\\-- Jürgen Habermas --
+#+LATEX_HEADER: \subtitle{Kommentar}
+#+AUTHOR: Christian Sangvik
+
+* Autor
+
+  Jürgen Habermas ist ein deutscher Philosoph und Soziologe. Er wurde 1929 in
+  Düsseldorf als Sohn des Geschäftsführers der Industrie- und Handelskammer zu
+  Köln geboren. Sein Grossvater war Theologe und leitete ein
+  Lehrerseminar. Habermas studierte zwischen 1945 und 1954, wo er sich mit
+  Philosophie, Geschichte, Psychologie, deutscher Literatur und Ökonomie
+  beschäftigte. Nach dem Studium schrieb er für diverse Zeitungen als freier
+  Journalist. Als Stipendiat kam er 1956 als wissenschaftlicher Assistent an das
+  Institut für Sozialforschung in Frankfurt. Dort kam er intensiv mit dem
+  Gedankengut des Marxismus und Denken von Freud in Berührung. Er engagierte
+  sich politisch gegen die Atomisierung und deren Auswirkungen. Ab 1961 war er
+  noch mitten in seinem Habilitationsprozess aber schon zum ausserordentlichen
+  Professor berufen. 1964 dann wurde er als Professor für Philosophie und
+  Soziologie and die Universität Frankfurt berufen. 1994 wurde Habermas dann
+  emeritiert, blieb aber aktiv und schrieb weiterhin Bücher und Kommentare. Bis
+  heute zählt er zu den meistzitierten Philosophen und Soziologen der
+  Gegenwart. Dabei gilt er als Grenzgänger zwischen Philosophie und
+  Sozialwissenschaften.cite:wiki:JürgenHabermas-de
+
+* Text
+
+  asdf.cite:Habermas1962
+
+bibliographystyle:unsrt
+bibliography:dasprivateinderdigitalengesellschaft.bib
