@@ -33,7 +33,9 @@
 
 * Text
 
-  asdf.cite:Habermas1962
+  Habermas zeigt gleich zu Beginn auf, dass die Begriffe /öffentlich/ und
+  /Öffentlichkeit/ einer Klärung bedürfen, da sie ``eine Mannigfaltigkeit
+  konkurrierender Bedeutungen'' cite:Habermas1962 verraten.
 
 bibliographystyle:unsrt
 bibliography:dasprivateinderdigitalengesellschaft.bib
