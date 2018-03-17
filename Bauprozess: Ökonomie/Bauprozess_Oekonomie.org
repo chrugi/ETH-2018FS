@@ -50,6 +50,12 @@
 
    [[https://ioe-app.ethz.ch][IOE App]] mit ETH Login verfügbar.
 
+** Benotete Übungen
+
+*** Hilfsmittel
+
+    
+
 * Vorlesungen
 
 ** Editorial
@@ -237,7 +243,29 @@
 
 *** Brutto-, Netto-, Eigenkapitalrendite
 
-** chancen & Risiken
+** Chancen & Risiken
+
+   In der Schweiz gibt es einen relativ kleinen Anteil an
+   Eigenheimen. Investoren wollen eine Rendite erzielen und daher sind sie wenig
+   interessiert an Eigentumsobjekten.
+
+   Das Interesse der Bewohner geht aber in Richtung Eigenheim. Der Markt trifft
+   sich nicht richtig.
+
+   In Gebieten wo die Mieten unter einem bestimmten Quadratmeterpreis sind,
+   können aber keine Mietobjekte mehr gebaut werden, da das Land zwar sehr
+   günstig ist, die Erstellungskosten aber nicht merklich kleiner sind.
+
+   Stockwerkeigentum ist wesentlich risikoreicher als Mietwohnungen. Als
+   Architekt muss man sich plötzlich mit einer Vielzahl an ``Bauherren''
+   auseinandersetzen. Sonderwünsche für jede Partei kommen hinzu.
+
+   Normalerweise kommt eine Risikoteilung zwischen Architekten und
+   Investor. Dies bedeutet, dass man z.B. pro Wohnung entlohnt wird.
+
+   Der erste Schritt ist der Vorvertrag. Dies kommt auch bei einem
+   Bieterverfahren zum Zug. Mit dem Vorvertrag ist eine gewisse Verbindlichkeit
+   aber noch keine 100% definitiven Zahlen festgehalten.
 
 ** Kosten
 
