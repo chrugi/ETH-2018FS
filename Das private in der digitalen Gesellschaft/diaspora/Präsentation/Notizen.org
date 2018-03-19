@@ -1,0 +1,126 @@
+#+TITLE: Diaspora* Präsentation
+#+AUTHOR: Carlo Schmid and Christian Sangvik
+
+* Rahmen
+
+  In ca. 20 Minuten demonstrieren wir den Seminarteilnehmern ein ``privates'',
+  dezentrales soziales Netzwerk.
+
+  Wichtig für uns ist es, die Verbindung zum Seminar ``Das private in der
+  digitalen Gesellschaft'' zu machen, und den begriff /privat/ anhand unseres
+  Netzwerkes zu diskutieren.
+
+* Aufbau Präsentation
+
+  Wir sehen die Präsentation in drei Hauptpunkten. Zum /ersten/ eine kurze
+  Erklärung, was diaspora* eigentlich ist, minimal auf die Technik und
+  implementation eingehen. /Zweitens/ möchten wir an einer praktischen
+  Präsentation das selbe Benutzerprofil anlegen, welches wir bei unserem Diskurs
+  über Facebook benutzt haben, und praktisch die Privatsphäreneinstellungen
+  tätigen. Der /dritte/ Punkt wird dann die Diskussion über den Menschen als
+  Datensatz vor dem Spiegel von diaspora* sein.
+
+** Diaspora*
+
+   /Diaspora*/ ist ein Softwarepaket, das im Jahre 2010, also drei Jahre nach dem
+   grossen Impact von /Facebook/ von vier Mathematikstudenten aus New York
+   programmiert wurde.  Ziel dieses Paketes war es:
+
+   - Das Internet dezentraler zu gestalten
+
+     Nicht irgendwelchen privaten Firmen die Macht über die persönlichen Daten
+     zu gewähren, und sich selber nicht zur Zielscheibe kommerzieller Ausbeutung
+     zu machen, wo wir mit einer Währung zahlen, die wir nicht verstehen, zu der
+     wir noch nicht wirklich ein Gefühl haben.
+
+   - Unter Aspekten des Datenschutzes eine soziale Platform zu schaffen
+
+     Das Teilen von Geschichten, Bildern und Eventdaten, die persönliche
+     Korrespondenz mit anderen Leuten, etc. ist ein wichtiges Bedürfnis von uns
+     Menschen. Wir schätzen sotziale Netzwerke so sehr, da wir mit minimalem
+     Aufwand mit vielen sehr verstreuten Personen und grossen Gruppen
+     interagieren können. Dass wir aber dafür unsere persönliche Freiheit
+     aufgeben sollen leuchtet nicht ein. Es muss einen Weg geben, dies zu
+     erreichen, ohne unserer Privatsphäre massive Einschnitte zu verpassen.
+
+*** Lizenz
+
+    Diaspora* ist unter der GNU AGPL v3 (GNU Affro General Public License
+    Version 3) veröffentlicht, und somit mittels Copyleft Klausel immer frei
+    zugänglich und von jedermann veränder- und einsehbar. Es ist nicht erlaubt,
+    den Quellcode zu nehmen, Änderungen dazu vorzunehmen und diese dann geheim
+    zu halten. Es ist auch nicht möglich, das Programm in zukunft in einer
+    weniger offenen Lizenz zu publizieren. Somit ist und bleibt diaspora* für
+    immer freie Software.
+
+    !! PUNKTE ZU AGPL AUFFÜHREN !!
+
+*** Philosophie
+
+    Diaspora* ist um drei philosophische Kernpunkte herum aufgebaut.
+
+**** Dezentralität
+
+     Im gegensatz zu Datengiganten, welche alle eingegebenen und auch
+     anderweitig gesammelten Daten der einzelnen Benutzer zentral auf ihren
+     eigenen Servern lagern, funktioniert diaspora* auf einer Vielzahl kleinen
+     Servern wo die Benutzerdaten nur jeweils auf einem einzigen Vorliegen.
+
+     Jeder ist in der Lage seinen Server selber auszuwählen, und sogar einen
+     eigenen zu kreieren, über den man dann volle Kontrolle hat. Man kann also
+     sehr gut selber bestimmen, auf welchem Rechner die Daten, die man selber
+     eingibt zu liegen kommen. Dies bedingt natürlich auch ein Stück
+     Eigenverantwortung, dass man sich gegebenenfalls im Voraus bereits damit
+     auseinandersetzt, wo man seine Daten hinschicken will.
+
+**** Freiheit
+
+     Diaspora* schreibt es in die eigene Philosophie, Freiheit zu bieten. Dies
+     ist ein grosses Wort. Wir konnten in unserer Recherche aber ausmachen, dass
+     sich diese Freiheit nicht uneingeschränkt, aber dennoch immens lesen
+     lässt. Wir haben sie auf folgende Punkte reduziert:
+
+     - Sein wer du sein möchtest
+
+       Im Gegensatz zu anderen Netzwerken muss man sich nicht mit der eigenen
+       Identität anmelden. Dies kann wohl bei Facebook erwiesenermassen
+       (Fakeprofil) auch gemacht werden, Frühe Implementationen von google+,
+       LinkedIn, und je nach Namen (Gedenken wir der Anekdote Dominique Killers,
+       der seiner Facebookanmeldung eine Kopie seines Personalausweises beilegen
+       musste) auch bei Facebook, bedürfen einer Authentifizierung. Ich weiss
+       nicht, ob sich dies generell geändert hat, doch dürfte es den
+       Datengiganten zusehends egal sein, mit welchem Namen man sich anmelden
+       will, da sie ``wahre Daten'' von anderswo im System abgreifen können.
+
+       Bei diaspora* wird man sogar ermutigt, innerhalb der Grenzen des eigenen
+       Vorstellungsvermögens sich eine eigene Identität zu schaffen.
+
+     - Werbefrei!
+
+       Diaspora* wird nicht durch Werbung finanziert, da kein Konzern im
+       hintergrund steht. Es braucht also einfach keine Werbung.
+
+     - Freie Software
+
+       Wie bereits bei der Lizenz erwähnt, kann jeder Änderungen an diaspora
+       vornehmen, und diese auch selber betreiben. Diaspora ist in ruby
+       geschrieben, es ist folglich nicht sonderlich schwierig, den Code
+       abzuändern. Ruby ist eine Touring-complete Programmiersprache, somit ist
+       /ALLES/ denkbar.
+
+     - Integration anderer Netzwerke (You have the right and freedom to make
+       poor choices)
+
+       Es ist in diaspora* möglich, accounts anderer sozialer Netzwerke
+       einzubinden. Dies mag auf den ersten Blick komisch oder inkonsequent
+       klingen, bietet aber dem Benutzer, der sich nur schwer von Facebook,
+       twitter oder LinkedIn trennen kann diaspora* als einen Proxy für den
+       Zugriff auf eben jene Dienste zu verwenden, was ein grossartiges Sammeln
+       persönlicher Daten für die Betreiber des anderen Netzwerkes sehr
+       schwierig macht. Es bleiben aber logischerweise die Einschränkungen des
+       Weitergebens und anderweitig Verwendens deiner persönlichen Daten, die du
+       Facebook und co. weitergibst.
+
+**** Privatsphäre
+
+     
