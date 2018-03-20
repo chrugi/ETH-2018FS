@@ -1,7 +1,91 @@
 diaspora*
 
-Lizenz
-GNU AGPL v3
+Soziales Netzwerk
+   GNU AGPL v3
+
+https://diasporafoundation.org
+
+Eckdaten
+- 2010 Gegründet
+- vier Mathematikstudenten
+  der New York University
+  * Daniel Grippi
+  * Maxwell Salzberg
+  * Raphael Sofaer
+  * Ilya Zhitomirskiy († 2011)
+
+Anstoss
+- Rede von Eben Moglen
+  "Freedom in the Cloud"
+  Bedrohung der Privatsphäre durch
+  kommerzielle und zentralisierte
+  Internetdienste
+- Ideologische Gemeinschaft  
+
+Möglichkeiten
+- Sehr ähnlich wie Facebook
+- Kann andere asoziale
+  Netzwerke integrieren
 
 GNU Affero General Public License V3
-- Free Software
+- Freie Software
+- CopyLeft
+- Quellcode muss im Internet
+  zugänglich sein
+
+# Webseite
+
+Philosophie
+- Dezentralisierung
+- Freiheit
+- Privatsphäre
+
+Dezentralisierung
+- kein zentraler Server
+- Pods
+- Verbindung zu allen
+  anderen Pods
+
+Freiheit
+- Eigene Identität erstellen
+- Freie Software /
+  Eigene Änderungen möglich
+
+Privatsphäre
+- Daten dein Eigentum
+- Keine Weitergabe von:
+  * Rechten
+  * Daten / Metadaten
+- Selektiv publik
+- opt-in statt opt-out
+
+Vorbereitung
+- Pod auswählen / eigenen betreiben
+  > Recherche
+  > grosse Unterschiede zw. Pods
+- Anmelden / Registrieren
+
+@./AyumiTakahashi.png
+
+Ayumi Takahashi
+- aus Yokohama
+- geboren am 07.08.1993
+- Austauschstudentin an der Stanford University
+- studiert Physik
+- mag Photographie, Kitesurfing und zeichnen
+Email:      123ayumi93@gmail.com
+Passwort: abc.1234
+Pod:          https://diaspora.u4u.org
+
+Einstellungsmöglichkeiten
+- Sehr mager
+- Vertrauen?
+
+Wirklich Einfluss nehmen?
+- Quellcode anpassen
+  > muss programmieren können
+- Pod betreiben
+  > Kosten (Hardware, Betrieb)
+  > Technisches know-how
+
+Verhältnis Privat - Daten

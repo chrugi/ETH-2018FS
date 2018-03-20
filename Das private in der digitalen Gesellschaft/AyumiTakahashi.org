@@ -1,0 +1,18 @@
+#+TITLE: Ayumi Takahashi
+#+AUTHOR:
+#+DATE:
+
+#+OPTIONS: toc:nil
+
+#+ATTR_LATEX: \placement [H]
+#+ATTR_LATEX: width: \textwidth
+[[file:AyumiTakahashi.jpg]]
+
+- from Yokohama
+- born 07.08.1993
+- exchange student at Stanford University
+- studies physics
+- likes photography, kite surfing and drawing
+- Email: =123ayumi93@gmail.com=
+- diaspora* pod: https://diaspora.u4u.org
+- Password: =abc.1234=
