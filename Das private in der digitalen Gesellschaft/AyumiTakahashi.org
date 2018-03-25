@@ -1,3 +1,6 @@
+#+LATEX_CLASS_OPTIONS: [a4paper,11pt]
+#+LATEX_CLASS: koma-article
+
 #+TITLE: Ayumi Takahashi
 #+AUTHOR:
 #+DATE:
@@ -7,6 +10,10 @@
 #+ATTR_LATEX: \placement [H]
 #+ATTR_LATEX: width: \textwidth
 [[file:AyumiTakahashi.jpg]]
+
+#+BEGIN_LaTeX
+\clearpage
+#+END_LaTeX
 
 - from Yokohama
 - born 07.08.1993
