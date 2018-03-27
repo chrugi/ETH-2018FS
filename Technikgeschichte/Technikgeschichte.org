@@ -28,20 +28,20 @@
 
 ** Übersicht Programm
 
-   | 27. Feb | 01 | Einführung         |
-   | 06. Mär | 02 | Wunschmaschine I   |
-   | 13. Mär | 03 | Wunschmaschine II  |
-   | 20. Mär | 04 | Wunschmaschine III |
-   | 27. Mär | 05 | Wunschmaschine IV  |
-   |         | -- |                    |
-   | 10. Apr | 06 | Katastrophe I      |
-   | 17. Apr | 07 | katastrophe II     |
-   | 24. Apr | 08 | Innovation I       |
-   |         | -- |                    |
-   | 08. Mai | 09 | Innovation II      |
-   | 15. Mai | 10 | Assoziation I      |
-   | 22. Mai | 11 | Assoziation II     |
-   | 29. Mai | 12 | Bilanz             |
+   | 27. Feb | 01 | Einführung                     |
+   | 06. Mär | 02 | Wunschmaschine I               |
+   | 13. Mär | 03 | Wunschmaschine II              |
+   | 20. Mär | 04 | Wunschmaschine III             |
+   | 27. Mär | 05 | Wunschmaschine IV              |
+   |         | -- |                                |
+   | 10. Apr | 06 | Katastrophe I                  |
+   | 17. Apr | 07 | katastrophe II - *Primärtext*  |
+   | 24. Apr | 08 | Innovation I                   |
+   |         | -- |                                |
+   | 08. Mai | 09 | Innovation II                  |
+   | 15. Mai | 10 | Assoziation I - *Sekundärtext* |
+   | 22. Mai | 11 | Assoziation II                 |
+   | 29. Mai | 12 | Bilanz                         |
 
 * Vorlesungen
 
@@ -57,7 +57,7 @@
    tun. Es geht nicht zwingend um eine materielle Maschine im eigentlichen Sinn.
 
    Wir vergegenständlichen die Dinge mit der Sprache, die wir dafür verwenden.
-   
+
 ** Wunschmaschine I
 
 ** Wunschmaschine II
@@ -109,11 +109,7 @@
 
 *** Politik
 
-    
-
 ** Wunschmaschine III
-
-   
 
 ** Wunschmaschine IV
 
