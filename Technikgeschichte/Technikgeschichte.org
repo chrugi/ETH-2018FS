@@ -115,6 +115,79 @@
 
 ** Katastrophe I
 
+*** Technik als Katastrophe
+
+    Das Gegenteil technischer Wunschmaschinen
+
+    - Projektion
+
+      - Angst
+      - Unsicherheit, Ungewissheit
+
+    - Mis en place
+
+      - Durcheinander
+      - Untersuchung Regeln
+      - Risikobereitschaft
+      - In Sicherheit fühlen
+
+    - Bricolage
+
+      - Rechtfertigung
+      - Vorbereiten auf Ernstfall, potentielle Massnahmen
+
+    - Kohärenz, Statik
+
+      - Titaker Zusammenbruch
+      - Helden
+      - "starke Männer"
+      - Kausalität (Glaubwürdige Argumentation)
+
+    - Fokussierung
+
+      - Opfer
+      - auf Folgen
+      - Unschuld/ Schuld
+
+    - Narrativ
+
+      - Verengung (statt offener Erwartungshorizont)
+
+    - Norm
+
+      - Katastrophenskala
+      - Soziale Norm bei Unfällen
+      - Tragik
+
+    - Selektion
+
+    - Politics
+
+
+    | Kontrollverlust            |
+    | Lernprozess                |
+    | Verantwortungszuschreibung |
+
+    | Wir                       | Katastrophe           | Technik              |
+    |---------------------------+-----------------------+----------------------|
+    | Mensch                    | Unfall / Zwischenfall | Maschinen            |
+    | Konsumenten               | Gefahr                | Verkehr              |
+    | Experten                  | Risiko                | Dienstleistung       |
+    | Erfinder                  | Normalität            | Entwicklung / Patent |
+    | Opfer                     | Kontrolle             | Produkt              |
+    | Ingenieure                |                       | Arbeitsmethode       |
+    | Arbeiter                  |                       | Prozess / Verfahren  |
+    | Unternehmer               |                       | Apparatur            |
+    | Operateure / Maschinisten |                       | System               |
+    | User                      |                       |                      |
+    | Bürger                    |                       |                      |
+    | Anbieter                  |                       |                      |
+    | Bewohner / Bevölkerung    |                       |                      |
+    | Beamte                    |                       |                      |
+    | Politiker                 |                       |                      |
+    | Probanden                 |                       |                      |
+    
+
 ** Katastrophe II
 
 ** Innovation I
