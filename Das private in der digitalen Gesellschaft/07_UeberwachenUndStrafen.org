@@ -1,0 +1,144 @@
+#+LATEX_CLASS: koma-article
+#+LATEX_CLASS_OPTIONS: [a4paper,ngerman,11pt]
+
+#+LANGUAGE: de
+#+LATEX_HEADER: \usepackage{ngerman}
+#+LATEX_HEADER: \usepackage{url}
+#+LATEX_HEADER: \usepackage{breakurl}
+#+LATEX_HEADER: \addtokomafont{disposition}{\rmfamily}
+
+#+OPTIONS: toc:nil num:0
+
+#+TITLE: Überwachen und Strafen
+#+LATEX_HEADER: \subtitle{Kommentar}
+#+AUTHOR: Christian Sangvik
+#+DATE: 4. April 2018
+
+* Autor
+
+  Michel Foucault (* 15.10.1926, † 25.06.1984) war ein französicher Philosoph,
+  Psychologe und Soziologe. Er gilt als Begründer der
+  Diskursanalyse.cite:wiki:MichelFoucault-de Die Diskursanalyse untersucht im
+  allgemeinen den Zusammenhang von sprachlichem Handeln und sprachlicher Form im
+  Zusammenhang mit dem gesellschaftlichen Handeln, insbesondere institutionellen
+  Strukturen. Foucault stellte die traditionelle Geistesgeschichte in Frage, da
+  er sich nicht auf das erkennende Subjekt fokussierte, sondern sich auf
+  faktische Aussagen stützt, die die moderne Subjektivität erst hervorgebracht
+  haben. Sein Werk ist aber nicht prinzipiell eine neue Methode, sondern
+  theoretische Überlegungen für eine neue Art zu denken, auf eine
+  positivistische Art.cite:wiki:Diskursanalyse-de
+
+  Foucault war der Sohn eines Anatomieprofessors. Er brach aber bewusst mit der
+  Tradition der Familie ein Medizinstudium zu ergreifen und studierte
+  Philosophie und Psychologie in Paris. Nachdem er als Lehrer für Philosophie am
+  /Collège de France/ zugelassen wurde gehörten auch Paul Veyne und Jacques
+  Derrida zu seinen Schülern.  In seiner Forschung untersuchte er, wie Wissen
+  entsteht und Geltung erlangt, wie Macht ausgeübt wird und wie Subjekte
+  diszipliniert werden.cite:wiki:MichelFoucault-de
+
+* Text
+
+  Im Text beschreibt Foucault zunächst den historischen Hergang der Quarantäne
+  im Pestfall einer Stadt im 17. Jahrhundert. Damals gab es eine strikte
+  Hierarchie zur Überwachung der Quarantänemassnahmen vom Fürsten oder
+  Bürgermeister aus über sogenannte Intendanten und Syndices zu den einzelnen
+  Bewohnern herunter, welche die Ordnung allesamt unter Androhung des Todes
+  durchsetzten. Es gab keine Teilung der Gewalten und so war es die
+  absolutistische Willkür, die sich so über Verordnungen breit machen
+  konnte. Allerdings dies alles unter dem Vorwand des Schutzes der eigenen
+  Sicherheit.cite:Foucault1977 Bezeichnenderweise ist dies auch heute noch das
+  gängige Argument um Überwachungsstrukturen zu legitimieren. Heute ist es
+  einfach nicht die Pest oder eine andere Seuche die den Agressor von aussen
+  darstellt, sondern häufig das Wort Terror oder Terroristen. Die Verschärfung
+  des Überwachungsgesetzes in der Schweiz im Herbst 2016 wurde hauptsächlich so
+  argumentiert.cite:bundesrat
+
+  Foucault beschreibt weiter, dass damals systematisch alle Einwohner erfasst
+  und Verzeichnet wurden ("`lückenloses Registrierungssystem"'
+  cite:Foucault1977), und alle täglich einen wahrheitsgemässen Bericht abgeben
+  mussten. Die Umstände gingen so weit, dass selbst die grundlegende
+  medizinische Versorgung auf dem Dienstweg der Hierarchie geschehen musste, um
+  nicht irgendwelche /Geheimnisse/ haben zu können. Die so etablierte Ordnung
+  schrieb allen ihren Platz (physisch), Körper und sogar sein Gut
+  vor.cite:Foucault1977 In diesem Sinne ist das erfassen vieler persönlicher
+  Daten nicht erst ein Phänomen unserer Gesellschaft, es klärt sich aber noch
+  nicht, ob dies eine gute oder sinnvolle Sache ist.
+
+  Danach geht Foucault auf den Unterschied der Ordnungsstruktur bei der Pest und
+  dem einfachen Aussetzen bei Lepra ein, und bringt diesen mit politischen
+  Grundideen in Verbindung. Das eine ideal (Lepra) strebt nach einer /reinen/
+  Gesellschaft, während das andere (Pest) eine /disziplinierte/ Gesellschaft
+  anstrebt. Er nennt es gar den "`Traum von einer disziplinierten Gesellschaft"'
+  cite:Foucault1977, wo es darum geht, die Beziehungen zwischen den einzelnen
+  Individuen der Gesellschaft zu kontrollieren und zu entflechten. Heute gienge
+  dieser Anspruch vermutlich viel zu weit, doch ist es mindestens bemerkenswert,
+  dass auch in den heutigen Regierungsformen, auch in der westlichen Welt,
+  ebenfalls ein Ideal der Angstherrschaft ist. Es wird vielleicht nicht mit der
+  Todesstrafe gedroht, doch ist mein generelles Erleben für das Unterlassen von
+  verschiedenen Handlungen daher geprägt, dass es immer darum geht, angedrohte
+  Konsequenzen zu vermeiden. Der Staat nimmt sich auch heute noch die Frechheit
+  heraus, über einzelne zu werten und zu urteilen, sie zu kategorisieren und
+  gegen den eigenen Willen zu irgendwelchen Dingen oder in irgendwelche
+  Institutionen zu zwingen.
+
+  Als letzten Teil beschreibt Foucault dann das /Panopticon/, die
+  architektonische Manifestation des Überwachungsgedankens. Das Panopticon
+  funktioniert nur auf die Weise, dass es einen Überwachten und einen Überwacher
+  gibt, wobei der Überwachte gesehen wird, gleichzeitig aber nicht sehen kann ob
+  er gesehen wird. Es ist eine einseitige Überwachung. Gleichzeitig muss, damit
+  das Panopticon überhaupt funktioniert der Überwachte wissen, dass er jederzeit
+  überwacht werden kann. Er wird nicht mit physischer Gewalt zu einem Verhalten
+  gebracht, sondern durch den inneren Druck und die Ohnmacht in dieser Situation
+  aus der er sich nicht befreien kann. Dies geht so weit, dass man am Ende gar
+  keinen Überwacher mehr braucht, da es alleine schon reicht, dass der
+  Überwachte glaubt, dass die Möglichkeit besteht, dass er eventuell überwacht
+  werden könnte.
+
+  Durch diese einseitige Überwachungsstruktur wird das Individuum zum reinen
+  Objekt der Information aber niemals zum Subjekt einer
+  Konversation.cite:Foucault1977 Auf der anderen Seite ist die Macht des
+  Überwachers auch nicht an dessen Subjekt gebunden. Die Macht entsteht einzig
+  durch die Institutionalisierung der Überwachung, wobei es egal ist, wer denn
+  gerade am Drücker ist.
+
+  Das Panopticon ist auf verschiedene Weise ein Versuchslaboratorium. Auf der
+  einen Seite beschreibt Foucault, dass man das physische Panopticon als
+  Versuchslaboratorium für Menschen benutzen kann, ich sehe aber auch den
+  Versuch, der sicherlich nicht beabsichtigt ist ablesen zu können, wie weit
+  eine willkürliche Gewalt gehen kann, bevor sich eine komplette Gesellschaft
+  dagegen auflehnt. Ich stelle mir zwei Fragen bezüglich dieses Textes:
+
+  - Sind wir heute in einer Art /globalem Panopticon/ ausgestellt?
+
+    Diese Vermutung liegt nahe, da jedem bekannt ist, dass wir permanent
+    einseitig überwacht werden, und wir immer noch keine Ahnung haben, oder auch
+    haben können, wie weit dies führt. Wir sind im Seminar permanent am
+    überlegen, was es für uns bedeutet, überwacht zu werden.
+
+    Ein weiterer Punkt hierzu ist für mich auch die Erkenntnis, dass im
+    Panopticon die effektive erzieherische Gewalt vom Individuum selber kommt,
+    das in der Angst, überwacht zu werden sich so verhält, als dürfe es nur im
+    Willen des Überwachers handeln. Dies erlebe ich in einer ähnlichen Form auch
+    heute bei uns. Wenn ich überwacht werde, hüte ich mich automatisch von mir
+    selber aus davor, auf irgendeine /Blacklist/ genommen zu werden, indem ich
+    mich mit diversen kritischen Inhalten nicht offensichtlich in Verbindung
+    bringen lasse.
+
+  - Zum zweiten frage ich mich, was es eigentlich bedeutet Teil einer
+    Gesellschaft zu sein?
+
+    Im Panopticon sind alle Individuen physisch isoliert von den anderen. Dies
+    ist in unserer Gesellschaft sicherlich nicht der Fall. Aber inwieweit
+    ermöglicht diese Gegebenheit, dass wir nicht zu panoptischen Opfern werden?
+    Wenn ich mir meine Gedanken zum globalen Panopticon anschaue, scheint dies
+    mindestens für die Wirkungsstruktur des Überwachungsapparates keinen
+    wesentlichen Einfluss zu haben. Die Informationen die es zu ermitteln und
+    überwachen gilt sind vielleicht einfach komplexer, da sie nicht ohne
+    Einflüsse von anderer Seite existieren.
+
+    Was bedeutet es, Teil einer panoptischen Gesellschaft zu sein? Wenn die
+    gesamte Gesellschaft keine Geheimnisse mehr haben kann, kann sie sich
+    weiterentwickeln oder ist sie zur Stagnation im Status Quo verdammt?
+
+bibliographystyle:unsrt
+bibliography:dasprivateinderdigitalengesellschaft.bib
