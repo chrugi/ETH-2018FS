@@ -257,7 +257,7 @@
    günstig ist, die Erstellungskosten aber nicht merklich kleiner sind.
 
    Stockwerkeigentum ist wesentlich risikoreicher als Mietwohnungen. Als
-   Architekt muss man sich plötzlich mit einer Vielzahl an ``Bauherren''
+   Architekt muss man sich plötzlich mit einer Vielzahl an "`Bauherren"'
    auseinandersetzen. Sonderwünsche für jede Partei kommen hinzu.
 
    Normalerweise kommt eine Risikoteilung zwischen Architekten und
@@ -268,6 +268,39 @@
    aber noch keine 100% definitiven Zahlen festgehalten.
 
 ** Kosten
+
+   Kosten sind wie Kinder, man kann sie nicht vorhersehen. Die Zahlen die man
+   aber zu Anfang eines Projektes macht, sind immens wichtig, da das gesamte
+   Vorhaben darauf beruht, stimmen aber im Endeffeckt nie so wirklich.
+
+   Die Nutzungsphase beinhaltet bei weitem den Grössten Anteil der Kosten über
+   die Lebensdauer des Gebäudes.
+
+   Durch die Kosten die steigen, stiege eigentlich das Honorar des
+   Architekten. Um dem entgegenzuwirken gibt es vertragliche Lösungen, dass man
+   innerhalb eines bestimmten Masses genau schätzen muss. Sonst fällt eine
+   Strafe an.
+
+   Termine machen immer Probleme. Kosten in einer sehr frühen Phase zu schätzen
+   auch. Darum haben Kostenschätzungen immer eine bestimmte Genauigkeit. In
+   einer frühen Phase kann die Genauigkeit also bei $\pm 25\%$ liegen.
+
+   Fachplaner rechnen ihre eigenen Zahlen, allerdings fällt immer noch sehr viel
+   an für die Berechnung.
+
+   Es ist wichtig versteckte und ausgewiesene Reserven im Kostenvoranschlag drin
+   haben.
+
+   Wie ermitteln wir aber die Kosten für Objekte? Am wichtigsten ist immer Die
+   Grösse. Danach kommen Typologie, Baugrund, Ausbaustandard, usw. Je grösser
+   der Bauunternehmer, desto günstiger ist der Kubikmeterpreis, da der Markt ein
+   ganz anderer ist.
+
+   Umbaukosten sind extrem schwierig zu eruieren, da wir dem Bestand einen Wert
+   zumessen müssen.
+
+   Im Vorprojekt werden die Kosten immer konkreter, da wir mindestens im CAD
+   bereits flächen und Volumen messen können.
 
 ** Projektentwicklung
 
