@@ -2,7 +2,15 @@
 #+SUBTITLE: Mitschriften und Notizen
 #+AUTHOR: Christian Sangvik
 #+EMAIL: christian.sangvik@gmx.ch
-#+DATE: <2018-02-27 Die>
+#+DATE: \today
+
+#+LATEX_CLASS: koma-article
+#+LATEX_CLASS_OPTIONS: [a4paper,ngerman,11pt]
+
+#+LATEX_HEADER: \usepackage{ngerman}
+#+LATEX_HEADER: \usepackage{url}
+
+#+LATEX_HEADER: \addtokomafont{disposition}{\rmfamily}
 
 * Administration
 
