@@ -171,7 +171,6 @@
 
     - Politics
 
-
     | Kontrollverlust            |
     | Lernprozess                |
     | Verantwortungszuschreibung |
@@ -194,9 +193,66 @@
     | Beamte                    |                       |                      |
     | Politiker                 |                       |                      |
     | Probanden                 |                       |                      |
-    
+
 
 ** Katastrophe II
+
+   Im Gegensatz zu den Wunschmaschinen schreiben wir uns in Rage, wenn wir über
+   die Katastrophe schreiben.
+
+   Auch die Abgrenzung von Unfall zu Katastrophe macht uns noch Mühe.
+
+   Jede Katastrophe hat Folgen, ist spektakulär. Bei Giedion ist dies nicht der
+   Fall. Wir wissen um die Katastrophe und machen da auch mit. Was ist das
+   katastophale an dieser Killerfabrik?
+
+   Ist die Mechanisierung eine Art Erdbeben, gegen das wir nichts tun können?
+   Nein. Woher kommt dann die Mechanisierung? Ist sie bloss eine Anpassung an
+   neue Umstände?
+
+   Rollen in diesem Disaster
+
+   - Ingenieure
+
+     Reichen die Patente ein
+
+   - Ökonomen
+
+   - Fleischesser
+
+   - Operateure
+
+   - Staaten
+
+   - Organisationen
+
+   - Arbeiter
+
+
+   Entweder sagt man, die Mechanisierung übernimmt das Kommando und das endet
+   dan in Auschwiz, oder man sagt, die Maschine ist kontrollierbar, und der
+   Mensch
+
+   Zeigt uns die Katastrophe, was das genuin menschliche ist?
+
+   Die Maschine ist nicht aus technischer Sicht ausser Kontrolle, sondern die
+   Katastrophe ist ethischer Natur.
+
+   Der Mensch wird in die Maschine eingebaut. Das Verbrauchsmaterial Mensch wird
+   optimal in den Produktionsprozess eingegliedert.
+
+
+*** Roboter
+
+    Sind die Roboter vergleichbar, mit einer avancierten mechanischen Maschine,
+    der überdies geanu gleich funktioniert? Ist die Katastrophe der
+    Roboterisierung dieselbe wie bei der Mechanisierung?
+
+    Wir haben immernoch zu kämpfen mit dem abstrakten Menschenkonzept, gegen
+    welches der Roboter aufstehen muss.
+
+
+    Technik macht Massstabssprung. Aus klein wird gross.
 
 ** Innovation I
 
