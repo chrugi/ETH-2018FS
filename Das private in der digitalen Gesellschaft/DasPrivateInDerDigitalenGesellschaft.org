@@ -23,7 +23,7 @@
 
 ** Protokoll der Sitzung
 
-   Post Privacy 
+   Post Privacy
 
    Die Privatsphäre wird gar nie beschrieben oder definiert.
 
@@ -47,7 +47,7 @@
    - Was tun?
 
 
-   
+
 ** Warum verlegen die Leute ihr Leben ins Internet?
 
    [Herr Meyer gibt sich dem Netz preis]
@@ -84,13 +84,13 @@
 
    Wechselseitige beziehung nach kommerzieller Art (Ich geb' dir was, du gibst
    mir was) Grundkapitalistische logik. Aber man ist sich nicht bewusst, was man
-   preisgibt. 
+   preisgibt.
 
    über das Netz mit andern austauschen,. aber eigentlich kommuniziert man
    damit.
 
    Daten in das Netz einspeisen. Wir müssen nicht einmal sprechen um Information
-   zu generieren und zu kommunizieren. 
+   zu generieren und zu kommunizieren.
 
    Was ist Information, was sind Daten?
 
@@ -133,3 +133,43 @@
    Angreifen
 
    Eine Frage des Ganzen.
+
+** ammenfassung des bisherigen Seminars
+
+*** Wie andlysieren wir das Private in der digitalen Gesellschaft? (Methode)
+
+    Man sollte sich faszinieren lassen von dem Phänomen wie bei Paul Veyne
+    beschrieben.
+
+    Gibt es einen Unterschied zwischen Daten und Informationen?
+
+    Funktionieren soziale Medien nach dem Grundsatz des Panoptismus?
+
+    Lesen, Teilnehmende beobachtung, Strukturelle Beobachtungen
+
+*** Was ist das Private?
+
+    Ist eine Kathegorie der Bürgerlichen Gesellschaft seit
+    dem 18. Jahrhundert. Alte Vorstellungen aus der Antike sind nicht kompatibel
+    mit unseren Vorstellungen.
+
+    Statusgleichheit, Bürger wurde zum Publikum. Herrschaft wird durch
+    literarische Gesellschaft unterlaufen und verändert.
+
+    Die Familie ist der Ursprungsort des Privaten in unserem Sinne.
+
+**** Funktionen des Privaten
+
+     - Das Private ist die Voraussetzung für die Erfahrung von Freiheit und
+       Freiwilligkeit und damit die Bedingung für die Teilnahme am Markt und in
+       der politschen Öffentlichkeit.
+
+     - Das Private ist die Quelle gesellschaftlicher Moral.
+
+*** Der Wandel in der digitalenGesellschaft
+
+    Das Private gerät unter Druck und verliert seine Plausibilität.
+
+    Veränderung des Regelwerks für einzelne Organisationen.
+
+    Die Privatheit ist ein sensible
