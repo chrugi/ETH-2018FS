@@ -258,6 +258,13 @@
 
 ** Innovation II
 
+   | *Invention*         | *Innovation*            | *Diffusion*           | *Wissenschaftspolitik* |
+   | /Technikgeschichte/ | /Wirtschaftsgeschichte/ | /Technikgeschichte/   |                        |
+   | Erfinder            |                         | Wo die grosse Wirkung | Ausbildung             |
+   | Maschinen           |                         | sich bemerkbar macht  | Grundlagen             |
+   | Ingenieure          |                         | Massenmarkt           |                        |
+   | Tüftler / Pioniere  |                         | Ganze Welt            |                        |
+
 ** Assoziation I
 
 ** Assoziation II
