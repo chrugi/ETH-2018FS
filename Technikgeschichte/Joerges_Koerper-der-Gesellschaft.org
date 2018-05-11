@@ -1,0 +1,63 @@
+#+LATEX_CLASS: koma-article
+#+LATEX_CLASS_OPTIONS: [a4paper,ngerman,11pt]
+
+#+TITLE: Kommentar zu B. Joerges'\\"`Technik - Körper der Gesellschaft"'
+#+AUTHOR: Christian Sangvik
+#+DATE: 13. Mai 2018
+
+#+LATEX_HEADER: \usepackage{ngerman}
+#+LATEX_HEADER: \usepackage{url}
+
+#+LATEX_HEADER: \addtokomafont{disposition}{\rmfamily}
+
+#+OPTIONS: toc:nil num:0
+
+#+BEGIN_LaTeX
+  \noindent
+#+END_LaTeX
+
+
+nocite:Joerges1996,Josephson2008
+
+* Notes on Fishsticks
+
+  Fishsticks were not invented because of the demand for it but rather because
+  of the need to sell the harvested fish. It's because of the
+  overproduction. The demand still stayed low, so the producers had to come up
+  with technical advances. The product came to it's success by the marketing of
+  /Gorton's/, as well as their effort in making the production more
+  efficient. The marketing was mainly aimed at busy housewifes. But also the
+  government helped to it's success in the end, by regulating food products and
+  school lunch programs.
+
+  Durch die neuen Methoden des /haltbar-machens/, wie in /Konserven/ abfüllen,
+  /kühlen/ und /gefrieren/ kamen /unverschmutzte/ (nicht mit Salz
+  haltbar gemachte) Lebensmittel erstmals bis zum Konsumenten.
+
+* Aufgabe
+
+  Liebe alle
+
+  In der nächsten Sitzung widmen wir uns dem Teilbereich Assoziation mit den
+  Texten von Josephson und Joerges. Da David Gugerli verhindert ist, übernimmt
+  freundlicherweise Gisela Hürlimann die Leitung.
+
+  Den Kommentatoren und Kommentatorinnen also hier nun die Aufgabe zum
+  jeweiligen Text:
+
+  In Paul Josephsons Fischstäbchen kommt viel zusammen. Suchen Sie ein
+  vergleichbares Beispiel für ein derart „assoziiertes“ Produkt und erörtern
+  Sie, welche Elemente in dieser Assemblage welche anderen bedingen oder
+  verursachen und ob sich überhaupt eine Kausalitätskette etablieren lässt.
+
+  Zum Zusatztext von Bernward Joerges: Was lässt sich in Bezug aufs
+  Fischstäbchen über das Wechselspiel von technischen und sozialen Normen
+  aussagen? Und wenn Sie ein anderes Beispiel wollen: was in Bezug auf den
+  Würfelzucker?
+
+  Herzlich
+
+  Mirjam
+
+bibliographystyle:plaindin
+bibliography:Technikgeschichte.bib
